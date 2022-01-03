@@ -25,6 +25,3 @@ ordered = count.most_common()
 high = ordered[0][1]
 low = ordered[-1][1]
 print(high - low)
-
-
-
